@@ -1,0 +1,25 @@
+{
+  "name": "jsonapi-orm-query",
+  "version": "1.0.0",
+  "description": "Encoding jsonapi requests to Sequelize query",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbones/jsonapi-orm-query.git"
+  },
+  "keywords": [
+    "orm",
+    "jsonapi",
+    "sequelize"
+  ],
+  "author": "Valentyn Pogrebinsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbones/jsonapi-orm-query/issues"
+  },
+  "homepage": "https://github.com/bbones/jsonapi-orm-query#readme",
+  "dependencies": {}
+}
