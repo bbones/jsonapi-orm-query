@@ -2,7 +2,7 @@
 var expect = require('chai').expect
 var muting = require('../muting')
 
-describe('muting', function () {
+describe('decodeQuery', function () {
   describe('init()', function () {
     it('should inject an object into twitter', function () {
       var twitter = 'twitter'

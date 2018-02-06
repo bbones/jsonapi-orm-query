@@ -1,7 +1,7 @@
 {
   "name": "jsonapi-orm-query",
   "version": "1.0.0",
-  "description": "Encoding jsonapi requests to Sequelize query",
+  "description": "Translate jsonapi requests to Sequelize query",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
